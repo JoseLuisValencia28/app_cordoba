@@ -77,7 +77,6 @@ REST API - Consumo de datos externos
 
 🖼️ Capturas de Pantalla
 ![alt text](image.png)
-![alt text](image-1.png)
 
 📝 Licencia
 
