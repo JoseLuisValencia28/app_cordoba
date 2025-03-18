@@ -75,7 +75,7 @@ Provider / Riverpod - Gestión de estado
 
 REST API - Consumo de datos externos
 
-🖼️ Capturas de Pantalla
+
 ![alt text](image.png)
 
 📝 Licencia
